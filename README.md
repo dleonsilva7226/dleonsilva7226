@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dleonsilva7226
+- 👋 Hi, I’m **Dan**
 - 👀 I’m interested in Programming and New Ways to Learn about the Field of Computer Science
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on projects of any kind to apply my knowledge of programming to real-world scenarios
