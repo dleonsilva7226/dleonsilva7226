@@ -5,6 +5,7 @@
 - 📫 How to reach me: dleonsilva7226@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Even though I am from the US, a predominately English speaking country, Spanish is the first language I ever learned
+- If anyone's looking to connect, here's my linkedin: www.linkedin.com/in/dleonsilva7226
 
 <!---
 dleonsilva7226/dleonsilva7226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
