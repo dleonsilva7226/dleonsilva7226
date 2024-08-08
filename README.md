@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Dan**
+- 👋 Hi, I’m **Daniel**, but you can call me **Dan**!
 - 👀 I’m interested in Programming and New Ways to Learn about the Field of Computer Science
 - 🌱 I’m currently JavaScript as well as making a remake of Pong in Java!
 - 💞️ I’m looking to collaborate on projects of any kind to apply my knowledge of programming to real-world scenarios
