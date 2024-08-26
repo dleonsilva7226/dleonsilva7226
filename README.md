@@ -6,6 +6,11 @@
 - 😄 Pronouns: he/him/his!
 - ⚡ Fun fact: Even though I am from the US, a predominately English speaking country, Spanish is the first language I ever learned!
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
+
+
+
 <!---
 dleonsilva7226/dleonsilva7226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
