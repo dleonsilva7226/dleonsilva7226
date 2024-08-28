@@ -5,7 +5,8 @@
 - 📫 You can reach me at my email (**dleonsilva7226@gmail.com**) or my LinkedIn (**www.linkedin.com/in/dleonsilva7226**)!
 - 😄 Pronouns: he/him/his!
 - ⚡ Fun fact: Even though I am from the US, a predominately English speaking country, Spanish is the first language I ever learned!
-
+- Languages: Java, Python, HTML, CSS, JavaScript, SQL
+- Tools and Frameworks: React, Git, VS Code, IntelliJ, Eclipse
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
 
