@@ -1,3 +1,5 @@
+#Tech Stack
+
 Languages: Java, Python, HTML, CSS, JavaScript, SQL
 
 Tools and Frameworks: React, Git, VS Code, IntelliJ, Eclipse
