@@ -15,7 +15,7 @@ Tech Stack
 ![Logo](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 ![Logo](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 ![Logo](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Logo" width="100" />
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Logo" width="50" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
