@@ -17,8 +17,6 @@ Tools and Frameworks
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226" alt="Logo" style="background: blue;"/>
-
 
 
 <!---
