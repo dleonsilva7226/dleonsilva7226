@@ -5,8 +5,7 @@ Tech Stack
   - Tools and Frameworks
     - React, Express, Picocss, Git, VS Code, IntelliJ, Eclipse
 
-![Alt text]([https://example.com/path/to/image.png](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png))
-![Logo](https://example.com/logo.png](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
+https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
 
