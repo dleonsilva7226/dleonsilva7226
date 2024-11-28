@@ -3,7 +3,7 @@ Tech Stack
   - Languages
     - Java, Python, HTML, CSS, JavaScript, SQL, C
   - Tools and Frameworks
-    - React, Express, Git, VS Code, IntelliJ, Eclipse
+    - React, Express, Picocss, Git, VS Code, IntelliJ, Eclipse
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats)
 
