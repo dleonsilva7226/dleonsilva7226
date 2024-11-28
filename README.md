@@ -11,11 +11,7 @@ Tools and Frameworks
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats&theme=radical))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226)](https://github.com/dleonsilva7226/github-readme-stats&theme=radical))
 
 
 
