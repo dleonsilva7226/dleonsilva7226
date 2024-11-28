@@ -4,6 +4,8 @@ Tech Stack
     - Java, Python, HTML, CSS, JavaScript, SQL, C
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Logo" width="75" />
 <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Logo" width="75" />
+
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Logo" width="75" />
   - Tools and Frameworks
     - React, Express, Picocss, Git, VS Code, IntelliJ, Eclipse
 
