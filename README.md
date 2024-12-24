@@ -10,7 +10,9 @@ Tools and Frameworks
 
 Stats
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&hide=contribs,prs&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&hide=contribs,prs&theme=radical) 
+<p></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
 
 
 
