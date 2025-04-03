@@ -39,8 +39,8 @@ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&hide=contribs,prs&theme=radical) 
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dleonsilva7226&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
