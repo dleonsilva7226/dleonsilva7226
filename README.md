@@ -10,6 +10,8 @@ Tools and Frameworks
 
 <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="Logo" width="50" /> <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Logo" width="50" /> <img src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" alt="Logo" width="50" /> <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="Logo" width="50" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Logo" width="50" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Logo" width="50" />
 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 Stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&hide=contribs,prs&theme=radical) 
