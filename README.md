@@ -39,8 +39,7 @@ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&hide=contribs,prs&theme=radical) 
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
