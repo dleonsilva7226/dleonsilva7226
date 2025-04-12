@@ -35,7 +35,7 @@ Developer Tools
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
 
 <!---
 dleonsilva7226/dleonsilva7226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
