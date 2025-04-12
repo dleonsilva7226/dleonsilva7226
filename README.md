@@ -34,7 +34,6 @@ Developer Tools
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<br></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical)
 
