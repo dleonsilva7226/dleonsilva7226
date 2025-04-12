@@ -36,10 +36,7 @@ Developer Tools
 
 Stats
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dleonsilva7226&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dleonsilva7226/dleonsilva7226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
