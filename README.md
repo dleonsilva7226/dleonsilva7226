@@ -1,5 +1,15 @@
 # Tech Toolkit
 
+
+<div align="center">
+  
+  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+  
+</div>
+
+
+
 Languages
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,6 +45,8 @@ Developer Tools
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
+
+
 
 <!---
 dleonsilva7226/dleonsilva7226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
