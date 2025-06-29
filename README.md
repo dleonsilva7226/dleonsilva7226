@@ -1,3 +1,5 @@
+# Stats
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=radical" 
