@@ -3,7 +3,7 @@
 
 Stats
 ---
-<p align="center" style="margin: 20px;">
+<p align="center" style="margin: 100px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=radical" 
     alt="Daniel's GitHub stats" 
