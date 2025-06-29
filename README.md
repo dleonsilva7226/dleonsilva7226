@@ -1,11 +1,8 @@
 # Tech Toolkit
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleonsilva7226&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical)
-
-
-
+Stats
+---
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=radical" 
@@ -18,6 +15,7 @@
     height="175"
   />
 </p>
+
 
 Languages
 ---
