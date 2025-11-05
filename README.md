@@ -6,7 +6,7 @@ Stats
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=transparent" 
     alt="Daniel's GitHub stats" 
-    height="175"
+    height="200"
   />
 </p>
 
