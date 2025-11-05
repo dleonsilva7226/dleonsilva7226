@@ -4,13 +4,8 @@ Stats
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=transparent" 
     alt="Daniel's GitHub stats" 
-    height="175"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=radical" 
-    alt="Top Languages" 
     height="175"
   />
 </p>
