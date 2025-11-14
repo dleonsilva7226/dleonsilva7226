@@ -33,21 +33,8 @@
   </tr>
 </table>
 
-
-
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
-    width="46%"
-  />
-
-</div>
-
----
 
 # 🛠 Tech Toolkit  
 <div align="center">
