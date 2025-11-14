@@ -3,12 +3,12 @@
 
 <h1>🚀 Daniel Leon Silva</h1>
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&width=900&lines=Backend+Engineer+specializing+in+AI+systems;I+build+fast%2C+secure%2C+and+scalable+software.;Always+learning%2C+always+shipping."
-/>
+<h3>
+  Backend engineer specializing in AI systems •  
+  I build fast, secure, and scalable software.
+</h3>
 
 </div>
-
 
 
 ---
