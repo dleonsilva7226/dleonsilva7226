@@ -17,7 +17,7 @@
 
 - 🧱 **Backend-leaning full-stack engineer** who loves infra, dev-tools, AI systems, and anything that scales  
 - 🚀 Experience across **Rails**, **Spring Boot**, **NestJS**, **Next.js**, **React**, **PostgreSQL**, and **Prisma**  
-- 💼 SWE Intern @ **Cisco Meraki** & **Y-Health** — shipped real production code used by engineering teams  
+- 💼 SWE Intern @ **Cisco Meraki** — shipped real production code used by engineering teams  
 - 🔧 Built end-to-end systems: **RAG pipelines**, **CI/CD automation**, **real-time collaboration tools**, and more  
 - 🧠 Big believer in **clean architecture**, strong testing, and making developer workflows *stupid fast*  
 - 📚 Always learning, always shipping, always building something on the side  
