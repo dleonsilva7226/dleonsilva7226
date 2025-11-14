@@ -2,11 +2,15 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=transparent" 
-    alt="Daniel's GitHub stats" 
-    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=transparent&hide_border=true"
+    height="160"
   />
 </div>
+
 
 ---
 
