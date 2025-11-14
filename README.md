@@ -35,9 +35,11 @@
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <table>
+
+  <!-- LANGUAGES -->
   <tr>
     <td><strong>Languages</strong></td>
     <td>
@@ -48,11 +50,12 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
     </td>
   </tr>
 
+  <!-- FRONTEND -->
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
@@ -60,13 +63,12 @@
       <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Vitest-729B1B?logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/RTL-E33332?logo=testinglibrary&logoColor=white" />
     </td>
   </tr>
 
+  <!-- BACKEND -->
   <tr>
     <td><strong>Backend</strong></td>
     <td>
@@ -82,46 +84,56 @@
     </td>
   </tr>
 
+  <!-- TOOLS & PLATFORMS -->
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
     </td>
   </tr>
 
+  <!-- AI / ML -->
   <tr>
     <td><strong>AI / ML</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/RAG%20Pipelines-000000?logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Vector%20Search-5A67D8" />
       <img src="https://img.shields.io/badge/LangChain-3B82F6?logo=chainlink&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
     </td>
   </tr>
 
+  <!-- SYSTEMS & CONCEPTS -->
   <tr>
     <td><strong>Systems & Concepts</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/CI%2FCD-0A0FFF?logo=azurepipelines&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-0A0FFF?logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-005571?logo=api&logoColor=white" />
       <img src="https://img.shields.io/badge/TDD-FFDD00?logo=testinglibrary&logoColor=black" />
       <img src="https://img.shields.io/badge/Agile%2FScrum-2496ED?logo=scrumalliance&logoColor=white" />
       <img src="https://img.shields.io/badge/SDLC-6A5ACD?logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/Clean%20Architecture-000000?logo=archlinux&logoColor=white" />
     </td>
   </tr>
+
 </table>
+
 
 
 ---
