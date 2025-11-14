@@ -1,30 +1,42 @@
-# 🚀 Daniel Leon Silva
-
-## 👨‍💻 About Me  
-- Backend-leaning full-stack engineer who loves building infra, dev tools, and AI-powered systems  
-- Experience across Rails, Spring Boot, NestJS, Next.js, React, PostgreSQL, and Prisma  
-- Interned at Cisco Meraki & Y-Health — shipped production code used by engineering teams  
-- Building secure, scalable systems: RAG pipelines, CI/CD automation, real-time collaboration tools  
-- Obsessed with clean architecture, testing, and making developer workflows stupid fast  
-
----
-
-## 📊 GitHub Stats  
-
+<!-- Header -->
 <div align="center">
+  
+# 🚀 Daniel Leon Silva  
+**Full-Stack SWE • AI Engineering • Dev Tools • Systems Builder**
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&width=435&lines=Backend+%7C+AI+Systems+%7C+Infra;I+build+fast%2C+secure%2C+scalable+software.;Always+learning.+Always+shipping." alt="Typing animation" />
 
 </div>
 
 ---
 
-## 🛠 Tech Toolkit 
+## 👨‍💻 About Me  
+- Backend-leaning full-stack engineer who loves infra, dev-tools, and AI-powered systems  
+- Experience across Rails, Spring Boot, NestJS, Next.js, React, PostgreSQL, Prisma  
+- SWE Intern @ **Cisco Meraki** & **Y-Health** — shipped production code used by engineering teams  
+- Built end-to-end systems: RAG pipelines, CI/CD automation, real-time collab tools  
+- Obsessed with clean architecture, testing, and making developer workflows *stupid fast*  
 
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
+    width="46%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=tokyonight&hide_border=true"
+    width="46%"
+  />
+
+</div>
+
+---
+
+# 🛠 Tech Toolkit  
 <div align="center">
 
 ### **Languages**
@@ -95,25 +107,30 @@
 
 </div>
 
-## 🚧 Current Projects  
+---
 
-### 🧠 AI & Security
+## 🛠 Current Projects  
+
+### 🧠 **AI & Security**
 - **GhostAI** — Code-scanning DLP engine using RAG + embeddings; reduces false positives and secures org repos  
 - **VecSec** — Multi-tenant vector-DB security agent with RLS, audit trails, and LangGraph-based routing  
 
-### ⚙️ Developer Tools
+### ⚙️ **Developer Tools**
 - **CodeSyncer** — Real-time code collaboration tool with WebSockets + AI-powered merge suggestions  
 
 ---
 
 ## 🔗 Connect  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dleonsilva7226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/dleonsilva7226" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/danielleonsilva/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dleonsilva7226">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
