@@ -2,24 +2,6 @@
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
-    width="46%"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=tokyonight&hide_border=true"
-    width="46%"
-  />
-
-</div>
-
-
-
----
-
-<div align="center">
-
 ### **Languages**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
