@@ -98,3 +98,23 @@
 </p>
 
 </div>
+
+## 🚧 Current Projects  
+
+- **GhostAI** — Code-scanning DLP engine using RAG + embeddings; reduces false positives and secures org repos  
+- **VecSec** — Multi-tenant vector-DB security agent with RLS, audit trails, and LangGraph-based routing  
+- **CodeSyncer** — Real-time code collaboration tool with WebSockets + AI-powered merge suggestions  
+
+---
+
+## 🔗 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielleonsilva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dleonsilva7226" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
