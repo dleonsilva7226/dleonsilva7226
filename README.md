@@ -3,8 +3,7 @@
   
 # 🚀 Daniel Leon Silva  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&width=650&lines=Building+infra%2C+devtools%2C+and+AI+systems;I+ship+secure%2C+scalable%2C+developer-first+software.;Quality+code.+Clean+architecture.+Real+impact."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&width=650&lines=Backend+Engineer+specializing+in+AI+systems;I+build+fast%2C+secure%2C+and+scalable+software.;Always+learning%2C+always+shipping."/>
 
 </div>
 
