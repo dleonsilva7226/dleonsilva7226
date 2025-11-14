@@ -1,3 +1,34 @@
+# 🚀 Daniel Leon Silva
+
+## 👨‍💻 About Me  
+- Backend-leaning full-stack engineer who loves building infra, dev tools, and AI-powered systems  
+- Experience across Rails, Spring Boot, NestJS, Next.js, React, PostgreSQL, and Prisma  
+- Interned at Cisco Meraki & Y-Health — shipped production code used by engineering teams  
+- Building secure, scalable systems: RAG pipelines, CI/CD automation, real-time collaboration tools  
+- Obsessed with clean architecture, testing, and making developer workflows stupid fast  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
+    width="46%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=tokyonight&hide_border=true"
+    width="46%"
+  />
+
+</div>
+
+---
+
+## 🛠 Tech Toolkit 
+
 <div align="center">
 
 ### **Languages**
