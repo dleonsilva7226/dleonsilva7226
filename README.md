@@ -4,12 +4,12 @@
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="160"
+    height="200"
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
+    height="200"
   />
 
 </div>
