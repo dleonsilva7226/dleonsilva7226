@@ -3,12 +3,12 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="160"
-  />
+    height="170"
+/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=transparent&hide_border=true"
-    height="160"
-  />
+    height="170"
+/>
 </div>
 
 
