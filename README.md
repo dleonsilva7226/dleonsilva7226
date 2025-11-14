@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td width="140" align="center">
+    <td width="100" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
     </td>
     <td>
