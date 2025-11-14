@@ -1,6 +1,6 @@
 ## 🚀 Tech Toolkit
 
-<div align="flex justify-center align-center">
+<div align="flex justify-center align-items">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
