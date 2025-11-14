@@ -14,11 +14,9 @@
 
 ### Tech Stack
 
-| Category              | Tools                                                                 |
-|-----------------------|-----------------------------------------------------------------------|
-| **Languages**         | Java · TypeScript · JavaScript · Python · SQL · C · HTML · CSS · LaTeX |
-| **Backend**           | Node.js · NestJS · Express                                            |
-| **Frontend**          | React · Next.js · Tailwind CSS                                       |
-| **Data / Storage**    | PostgreSQL                                                           |
-| **Developer Tools**   | Git · Postman · VS Code · IntelliJ IDEA · PyCharm · Eclipse · Bash   |
-
+| Category | Tools |
+|---------|-------|
+| **Languages** | C · Java · Python · JavaScript · TypeScript · Ruby · SQL · HTML/CSS |
+| **Frameworks & Libraries** | Spring Boot · Ruby on Rails · Next.js · NestJS · Express · Node.js · Flask · React · Redux · TailwindCSS · Jest · Vitest · RTL · RSpec |
+| **Tools & Platforms** | Docker · Qdrant · Git · GitHub · Supabase · PostgreSQL · Prisma · Jenkins · Jira · Postman · IntelliJ · PyCharm · VS Code · Bash · Linux/Unix |
+| **Systems & Concepts** | RAG Pipelines · CI/CD · REST APIs · Agile/Scrum · SDLC · TDD |
