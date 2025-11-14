@@ -15,13 +15,9 @@
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dleonsilva7226&show_icons=true&theme=tokyonight&hide_border=true"
-    width="46%"
+    width="49%"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleonsilva7226&layout=compact&theme=tokyonight&hide_border=true"
-    width="46%"
-  />
 
 </div>
 
