@@ -113,10 +113,7 @@
       <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Vector%20Search-5A67D8" />
-      <img src="https://img.shields.io/badge/LangChain-3B82F6?logo=chainlink&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
     </td>
   </tr>
 
