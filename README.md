@@ -2,7 +2,6 @@
 <div align="center">
   
 # 🚀 Daniel Leon Silva  
-**Full-Stack SWE • AI Engineering • Dev Tools • Systems Builder**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&width=435&lines=Backend+%7C+AI+Systems+%7C+Infra;I+build+fast%2C+secure%2C+scalable+software.;Always+learning.+Always+shipping." alt="Typing animation" />
 
