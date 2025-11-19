@@ -110,6 +110,7 @@
   <tr>
     <td><strong>AI / ML</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/LlamaIndex-111111?logo=llamaindex&logoColor=white" />
       <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Vector%20Search-5A67D8" />
