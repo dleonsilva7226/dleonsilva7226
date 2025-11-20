@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# 🚀 Daniel Leon Silva  
+# Daniel Leon Silva  
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Building+infra%2C+developer+tools%2C+and+AI+systems+at+scale.;I+ship+fast%2C+secure%2C+and+scalable+software.;Always+learning.+Always+shipping."
