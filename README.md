@@ -17,11 +17,6 @@
 
 <table>
   <tr>
-    <td width="260" align="center">
-      <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="220" alt="Developer animation" />
-    </td>
-    <td>
-
 - 🍕 **Backend-leaning full-stack engineer** who loves infra, dev-tools, AI systems, and anything that scales  
 - 🚀 Experience across **Rails, Spring Boot, NestJS, Next.js, React, PostgreSQL, Prisma**  
 - 💼 SWE Intern @ **Cisco Meraki** — shipped real production code used by engineering teams  
