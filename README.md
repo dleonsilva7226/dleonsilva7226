@@ -27,6 +27,7 @@
 - 🛠️ Built end-to-end systems: **RAG pipelines, CI/CD automation, real-time collaboration tools**, and more  
 - 🧠 Big believer in **clean architecture**, strong testing, and making developer workflows *stupid fast*  
 - 📚 Always learning, always shipping, always building something on the side  
+      
     </td>
   </tr>
 </table>
