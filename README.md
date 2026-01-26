@@ -138,24 +138,10 @@
 
 ## 🔗 Connect
 
-<table align="center">
-  <tr>
-    <td align="right"><strong>🌐 LinkedIn</strong></td>
-    <td>
-      <a href="https://www.linkedin.com/in/dleonsilva7226/" target="_blank">
+<a href="https://www.linkedin.com/in/dleonsilva7226/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><strong>🐙 GitHub</strong></td>
-    <td>
-      <a href="https://github.com/dleonsilva7226" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+</a>
+
 
 
 
