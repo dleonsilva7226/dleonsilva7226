@@ -129,10 +129,7 @@
 
 ### 🧠 **AI & Security**
 - **GhostAI** — Code-scanning DLP engine using RAG + embeddings; reduces false positives and secures org repos  
-- **VecSec** — Multi-tenant vector-DB security agent with RLS, audit trails, and LangGraph-based routing  
-
-### ⚙️ **Developer Tools**
-- **CodeSyncer** — Real-time code collaboration tool with WebSockets + AI-powered merge suggestions  
+- **VecSec** — Multi-tenant vector-DB security agent with RLS, audit trails, and LangGraph-based routing
 
 ---
 
