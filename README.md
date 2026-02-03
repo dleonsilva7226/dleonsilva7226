@@ -13,8 +13,6 @@
 
 ---
 
-# 👨‍💻 About Me  
-
 # 👨‍💻 About Me
 
 - Backend-leaning SWE focused on infra, dev tools, and scalable systems
