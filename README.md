@@ -67,7 +67,6 @@
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/RSpec-CC342D?logo=ruby&logoColor=white" />
       <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
     </td>
   </tr>
 
@@ -78,18 +77,14 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
     </td>
   </tr>
 
@@ -100,7 +95,6 @@
       <img src="https://img.shields.io/badge/🦙%20LlamaIndex-0A0A0A" />
       <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vector%20Search-5A67D8" />
       <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
     </td>
   </tr>
