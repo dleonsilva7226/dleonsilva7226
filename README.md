@@ -15,12 +15,12 @@
 
 # 👨‍💻 About Me  
 
-- 🍕 **Backend-leaning full-stack engineer** who loves infra, dev-tools, AI systems, and anything that scales  
-- 🚀 Experience across **Rails, Spring Boot, NestJS, Next.js, React, PostgreSQL, Prisma**  
-- 💼 SWE Intern @ **Cisco Meraki** — shipped real production code used by engineering teams  
-- 🛠️ Built end-to-end systems: **RAG pipelines, CI/CD automation, real-time collaboration tools**, and more  
-- 🧠 Big believer in **clean architecture**, strong testing, and making developer workflows *stupid fast*  
-- 📚 Always learning, always shipping, always building something on the side  
+# 👨‍💻 About Me
+
+- Backend-leaning SWE focused on infra, dev tools, and scalable systems
+- Shipped production software at **Cisco Meraki** used by internal engineering teams
+- Built end-to-end systems: RAG pipelines, CI/CD automation, real-time collaboration
+- Care deeply about clean architecture, testing, and developer velocity
 
 ---
 
