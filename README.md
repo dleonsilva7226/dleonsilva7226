@@ -117,14 +117,6 @@
 
 ---
 
-## 🛠 Current Projects  
-
-### 🧠 **AI & Security**
-- **GhostAI** — Code-scanning DLP engine using RAG + embeddings; reduces false positives and secures org repos  
-- **VecSec** — Multi-tenant vector-DB security agent with RLS, audit trails, and LangGraph-based routing
-
----
-
 ## 🔗 Connect
 
 <a href="https://www.linkedin.com/in/dleonsilva7226/" target="_blank">
