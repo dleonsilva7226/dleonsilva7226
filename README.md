@@ -75,7 +75,6 @@
     <td><strong>Tools & Platforms</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
@@ -93,7 +92,6 @@
     <td><strong>AI / ML</strong></td>
     <td>
       <img src="https://img.shields.io/badge/🦙%20LlamaIndex-0A0A0A" />
-      <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-FF4D4D?logo=qdrant&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
     </td>
