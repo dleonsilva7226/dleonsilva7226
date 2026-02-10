@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Me
 
-- Backend SWE focused on infra, dev tools, and scalable systems
+- SWE focused on infra, dev tools, and scalable systems
 - Shipped production software at **Cisco Meraki** used by internal engineering teams
 - Built end-to-end systems: RAG pipelines, CI/CD automation, real-time collaboration
 - Care deeply about clean architecture, testing, and developer velocity
