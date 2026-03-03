@@ -28,19 +28,20 @@
 
   <!-- LANGUAGES -->
   <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-    </td>
-  </tr>
+  <td><strong>Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  </td>
+</tr>
 
   <!-- FRONTEND -->
   <tr>
