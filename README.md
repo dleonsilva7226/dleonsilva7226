@@ -4,9 +4,9 @@
 # Daniel Leon Silva  
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Distributed+systems+%7C+Security+infrastructure+%7C+Dev+tools;Designing+fault-tolerant+systems;Shipping+scalable%2C+production-ready+software"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Distributed+systems+%7C+Security+infrastructure+%7C+Dev+tools;Fault-tolerant+systems;Scalable%2C+production-ready+software"
  />
-
+ 
 </div>
 
 ---
