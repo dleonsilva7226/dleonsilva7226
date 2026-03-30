@@ -7,9 +7,7 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Distributed+systems+%7C+Security+infrastructure+%7C+Dev+tools;Fault-tolerant+systems;Scalable%2C+production-ready+software"
 />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=dleonsilva7226&style=flat-square&color=6AA6FF&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=dleonsilva7226&style=for-the-badge&color=6AA6FF&label=profile+views" />
 
 </div>
 
