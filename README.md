@@ -7,8 +7,6 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Distributed+systems+%7C+Security+infrastructure+%7C+Dev+tools;Fault-tolerant+systems;Scalable%2C+production-ready+software"
 />
 
-<img src="https://komarev.com/ghpvc/?username=dleonsilva7226&style=for-the-badge&color=6AA6FF&label=profile+views" />
-
 </div>
 
 ---
@@ -107,5 +105,6 @@
 <a href="https://www.linkedin.com/in/dleonsilva7226/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=dleonsilva7226&style=for-the-badge&color=6AA6FF&label=profile+views" />
 
 
