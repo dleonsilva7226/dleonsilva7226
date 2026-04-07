@@ -14,7 +14,7 @@
 # 👨‍💻 About Me
 
 - SWE focused on distributed systems, security infrastructure, and developer tools
-- Built production software at **Cisco Meraki** used by internal engineering teams
+- Built production software at **Cisco Meraki** used by firmware engineering teams
 - Building end-to-end systems across async job pipelines, security analysis systems, RAG workflows, and CI/CD automation
 - Care deeply about reliability, observability, testing, and developer velocity
 
