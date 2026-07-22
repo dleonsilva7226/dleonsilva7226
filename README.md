@@ -3,10 +3,6 @@
 
 # Daniel Leon Silva  
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Infrastructure+%26+Distributed+Systems+Engineer;Kubernetes-Native+Tools+%7C+Cloud+Storage+%7C+Go;Cloud-Native+Architecture+%26+High-Availability+Services"
-/>
-
 </div>
 
 ---
