@@ -13,11 +13,9 @@
 
 # 👨‍💻 About Me
 
-- SWE focused on distributed systems, security infrastructure, and developer tools
-- Built production software at **Cisco Meraki** used by firmware engineering teams
-- Building end-to-end systems across async job pipelines, security analysis systems, RAG workflows, and CI/CD automation
-- Care deeply about reliability, observability, testing, and developer velocity
-
+- Built K8s storage automation & CSI extensions at **Datadog** and internal tools at **Cisco Meraki**
+- Interested in cloud-native patterns, distributed systems architecture, and scalable infrastructure
+- Focused on Go, Kubernetes, cloud storage, async pipelines, and observability
 ---
 
 ## 🧰 Tech Stack
