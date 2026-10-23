@@ -1,10 +1,3 @@
-<!-- Header -->
-<div align="center">
-
-# Daniel Leon Silva  
-
-</div>
-
 # 👨‍💻 About Me
 
 - Built k8s storage automation & CSI extensions at **Datadog** and internal tools at **Cisco Meraki**
