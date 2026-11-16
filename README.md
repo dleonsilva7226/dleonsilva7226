@@ -1,6 +1,5 @@
 # 👨‍💻 About Me
 
-- Built k8s storage automation at **Datadog** and internal tools at **Cisco Meraki**
 - Interested in cloud-native patterns, distributed systems architecture, and scalable infrastructure
 - Focused on Go, Kubernetes, cloud storage, async pipelines, and observability
 ---
