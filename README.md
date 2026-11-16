@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-- Interested in cloud-native patterns, distributed systems architecture, and scalable infrastructure
+- Interested in infra + distributed systems
 - Focused on Go, Kubernetes, cloud storage, async pipelines, and observability
 ---
 
